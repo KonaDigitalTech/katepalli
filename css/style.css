@@ -676,7 +676,7 @@ color: #e95950;
 .menu{padding: 0 80px;background: #fafafa;}
 .menu ul li{padding: 0;}
 .menu ul li a{padding: 0;text-decoration: none;padding: 10px 20px;display: block;color: #333;font-size: 14px;}
-.menu ul li.active a{ background-color: #007bff; color: #fff;}
+.menu ul li.active aa a{ background-color: #007bff; color: #fff;}
 .hero-text h1 span{ font-weight: 700;}
 .hero-text h1 span {
   font-weight: 700;
@@ -724,10 +724,17 @@ color: #e95950;
 .abouttext{width: 53%;}
 .abouttext h4{font-size: 50px;margin: 0 0 25px;font-weight: 600;}
 .abouttext h6{font-size: 25px;font-weight: 100;}
+.innerbanner{ padding: 30px 0; text-align: center; display: block !important;}
+.innerbanner h1{font-size: 30px !important; margin: 0 !important; text-align: center;}
+.hero-text h1 span{ font-size: 30px !important;}
+.innerbanner .hero-text {
+    max-width: unset;
+}
+.f20{ font-size: 20px;}
+.aboutimg img{ border-radius: 10px;}
+.tone{ font-size: 30px; margin: 0 0 20px;}
 
-
-
-
-
-
-
+.f16{ font-size: 18px;}
+.ulist{font-size: 16px;
+    padding: 0 0 0 20px;}
+.ulist li{ padding: 10px 0;}
